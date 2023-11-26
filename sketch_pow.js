@@ -53,6 +53,9 @@ function preload(){
 
   tFont[5] = loadFont("resources/Oktah Neue SemiBold.otf");
   pgTextFactor[5] = 0.75;
+
+  tFont[6] = loadFont("resources/wubberly.otf");
+  pgTextFactor[6] = 0.75;
 }
 
 function setup(){
